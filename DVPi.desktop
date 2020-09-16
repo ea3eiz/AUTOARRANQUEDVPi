@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Abrir DVPi
+Name[es_ES]=DVPi
+Comment=
+Exec=sh -c 'cd /home/pi/DVPi;sleep 15; sudo sh Abrir_DVPi.sh'
+Icon=/home/pi/DVPi/ICONO_DVPI_OFF.png
+Terminal=false
+StartupNotify=false
+Path=
+Hidden=false
+
